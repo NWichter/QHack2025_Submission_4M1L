@@ -1,0 +1,422 @@
+[
+  {
+    "text": "Seasonal Potato Salad with Herbs: A light summer recipe with local ingredients. New potatoes with garden herbs, spring onions, and a light dressing. Perfect for picnics and as a side dish.",
+    "metadata": {
+      "title": "Seasonal Potato Salad",
+      "ingredients": [
+        {"name": "New Potatoes", "amount": 500, "unit": "g"},
+        {"name": "Spring Onions", "amount": 2, "unit": "pieces"},
+        {"name": "Parsley", "amount": 1, "unit": "bunch"},
+        {"name": "Dill", "amount": 1, "unit": "bunch"},
+        {"name": "Olive Oil", "amount": 3, "unit": "tbsp"},
+        {"name": "Lemon Juice", "amount": 1, "unit": "piece"}
+      ],
+      "sustainability_score": 9.2,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegetarian", "vegan", "seasonal"],
+      "image_url": "https://images.unsplash.com/photo-1592921870789-04563d55041c",
+      "preparation_time": "20 minutes",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "text": "Lentil Vegetable Curry: A protein-rich, vegan dish with local vegetables. The lentils replace meat and provide important nutrients. Ideal for meal prep and suitable for freezing.",
+    "metadata": {
+      "title": "Lentil Vegetable Curry",
+      "ingredients": [
+        {"name": "Red Lentils", "amount": 200, "unit": "g"},
+        {"name": "Carrots", "amount": 3, "unit": "pieces"},
+        {"name": "Potatoes", "amount": 2, "unit": "pieces"},
+        {"name": "Onions", "amount": 2, "unit": "pieces"},
+        {"name": "Coconut Milk", "amount": 400, "unit": "ml"},
+        {"name": "Curry Powder", "amount": 2, "unit": "tsp"}
+      ],
+      "sustainability_score": 8.5,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegan", "protein-rich", "freezer-friendly"],
+      "image_url": "https://images.unsplash.com/photo-1585937421612-70a008356fbe",
+      "preparation_time": "40 minutes",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "text": "Mediterranean Chickpea Salad: A quick, healthy dish with legumes and seasonal vegetables. Perfect for lunch breaks or as a light dinner.",
+    "metadata": {
+      "title": "Mediterranean Chickpea Salad",
+      "ingredients": [
+        {"name": "Chickpeas", "amount": 400, "unit": "g"},
+        {"name": "Cucumber", "amount": 1, "unit": "piece"},
+        {"name": "Tomatoes", "amount": 2, "unit": "pieces"},
+        {"name": "Red Onion", "amount": 1, "unit": "piece"},
+        {"name": "Olive Oil", "amount": 2, "unit": "tbsp"},
+        {"name": "Lemon Juice", "amount": 1, "unit": "piece"}
+      ],
+      "sustainability_score": 8.8,
+      "seasonal": true,
+      "regional": false,
+      "tags": ["vegan", "protein-rich", "quick"],
+      "image_url": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38",
+      "preparation_time": "15 minutes",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "text": "Quick Vegetable Stir-Fry: A versatile dish that works with any vegetables you have. Perfect for using up leftover vegetables.",
+    "metadata": {
+      "title": "Quick Vegetable Stir-Fry",
+      "ingredients": [
+        {"name": "Mixed Vegetables", "amount": 500, "unit": "g"},
+        {"name": "Tofu", "amount": 200, "unit": "g"},
+        {"name": "Soy Sauce", "amount": 2, "unit": "tbsp"},
+        {"name": "Ginger", "amount": 1, "unit": "thumb"},
+        {"name": "Garlic", "amount": 2, "unit": "cloves"},
+        {"name": "Rice", "amount": 200, "unit": "g"}
+      ],
+      "sustainability_score": 8.0,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegan", "quick", "versatile"],
+      "image_url": "https://images.unsplash.com/photo-1534939561126-855b8675edd7",
+      "preparation_time": "25 minutes",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "text": "Creamy Mushroom Pasta: A comforting pasta dish with local mushrooms and herbs. Can be made vegan with plant-based cream.",
+    "metadata": {
+      "title": "Creamy Mushroom Pasta",
+      "ingredients": [
+        {"name": "Pasta", "amount": 300, "unit": "g"},
+        {"name": "Mushrooms", "amount": 400, "unit": "g"},
+        {"name": "Cream", "amount": 200, "unit": "ml"},
+        {"name": "Garlic", "amount": 3, "unit": "cloves"},
+        {"name": "Parsley", "amount": 1, "unit": "bunch"},
+        {"name": "Olive Oil", "amount": 2, "unit": "tbsp"}
+      ],
+      "sustainability_score": 7.5,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegetarian", "comfort-food"],
+      "image_url": "https://images.unsplash.com/photo-1556761223-4c4282c73f77",
+      "preparation_time": "30 minutes",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "text": "Roasted Root Vegetables: A warming side dish or main course featuring seasonal root vegetables. Perfect for cold days.",
+    "metadata": {
+      "title": "Roasted Root Vegetables",
+      "ingredients": [
+        {"name": "Carrots", "amount": 4, "unit": "pieces"},
+        {"name": "Parsnips", "amount": 3, "unit": "pieces"},
+        {"name": "Sweet Potatoes", "amount": 2, "unit": "pieces"},
+        {"name": "Rosemary", "amount": 2, "unit": "sprigs"},
+        {"name": "Thyme", "amount": 2, "unit": "sprigs"},
+        {"name": "Olive Oil", "amount": 3, "unit": "tbsp"}
+      ],
+      "sustainability_score": 9.0,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegan", "seasonal", "winter"],
+      "image_url": "https://images.unsplash.com/photo-1633436375795-12b3b339712f",
+      "preparation_time": "45 minutes",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "text": "Overnight Oats with Fresh Fruit: A healthy breakfast prepared the night before. Perfect for busy mornings and can be customized with seasonal fruits.",
+    "metadata": {
+      "title": "Overnight Oats",
+      "ingredients": [
+        {"name": "Oats", "amount": 100, "unit": "g"},
+        {"name": "Plant Milk", "amount": 250, "unit": "ml"},
+        {"name": "Chia Seeds", "amount": 2, "unit": "tbsp"},
+        {"name": "Honey", "amount": 1, "unit": "tbsp"},
+        {"name": "Seasonal Fruits", "amount": 100, "unit": "g"},
+        {"name": "Nuts", "amount": 30, "unit": "g"}
+      ],
+      "sustainability_score": 8.5,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["breakfast", "vegan-option", "meal-prep"],
+      "image_url": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2",
+      "preparation_time": "10 minutes + overnight",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "text": "Quinoa Buddha Bowl: A nutritious bowl packed with protein-rich quinoa, roasted vegetables, and tahini dressing.",
+    "metadata": {
+      "title": "Quinoa Buddha Bowl",
+      "ingredients": [
+        {"name": "Quinoa", "amount": 200, "unit": "g"},
+        {"name": "Sweet Potato", "amount": 1, "unit": "large"},
+        {"name": "Chickpeas", "amount": 400, "unit": "g"},
+        {"name": "Kale", "amount": 200, "unit": "g"},
+        {"name": "Tahini", "amount": 3, "unit": "tbsp"},
+        {"name": "Lemon", "amount": 1, "unit": "piece"}
+      ],
+      "sustainability_score": 8.0,
+      "seasonal": true,
+      "regional": false,
+      "tags": ["vegan", "protein-rich", "lunch"],
+      "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+      "preparation_time": "35 minutes",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "text": "Apple Cinnamon Porridge: A warming breakfast perfect for cold mornings. Uses local apples and sustainable oats.",
+    "metadata": {
+      "title": "Apple Cinnamon Porridge",
+      "ingredients": [
+        {"name": "Oats", "amount": 80, "unit": "g"},
+        {"name": "Apple", "amount": 1, "unit": "large"},
+        {"name": "Cinnamon", "amount": 1, "unit": "tsp"},
+        {"name": "Plant Milk", "amount": 300, "unit": "ml"},
+        {"name": "Maple Syrup", "amount": 1, "unit": "tbsp"},
+        {"name": "Walnuts", "amount": 20, "unit": "g"}
+      ],
+      "sustainability_score": 9.0,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["breakfast", "vegan", "winter"],
+      "image_url": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf",
+      "preparation_time": "15 minutes",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "text": "Cauliflower Wings: A plant-based alternative to chicken wings. Crispy, spicy, and perfect for parties.",
+    "metadata": {
+      "title": "Cauliflower Wings",
+      "ingredients": [
+        {"name": "Cauliflower", "amount": 1, "unit": "head"},
+        {"name": "Flour", "amount": 150, "unit": "g"},
+        {"name": "Plant Milk", "amount": 200, "unit": "ml"},
+        {"name": "Hot Sauce", "amount": 60, "unit": "ml"},
+        {"name": "Garlic Powder", "amount": 1, "unit": "tsp"},
+        {"name": "Paprika", "amount": 1, "unit": "tsp"}
+      ],
+      "sustainability_score": 8.7,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegan", "snack", "party-food"],
+      "image_url": "https://images.unsplash.com/photo-1562967916-eb82221dfb92",
+      "preparation_time": "40 minutes",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "text": "Three Bean Chili: A hearty vegetarian chili perfect for batch cooking. Rich in protein and fiber.",
+    "metadata": {
+      "title": "Three Bean Chili",
+      "ingredients": [
+        {"name": "Kidney Beans", "amount": 400, "unit": "g"},
+        {"name": "Black Beans", "amount": 400, "unit": "g"},
+        {"name": "Pinto Beans", "amount": 400, "unit": "g"},
+        {"name": "Tomatoes", "amount": 800, "unit": "g"},
+        {"name": "Onion", "amount": 2, "unit": "large"},
+        {"name": "Bell Pepper", "amount": 2, "unit": "pieces"}
+      ],
+      "sustainability_score": 9.2,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegan", "protein-rich", "batch-cook"],
+      "image_url": "https://images.unsplash.com/photo-1547592166-23ac45744acd",
+      "preparation_time": "50 minutes",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "text": "Pumpkin Soup: A creamy seasonal soup using local pumpkins. Perfect for autumn days.",
+    "metadata": {
+      "title": "Pumpkin Soup",
+      "ingredients": [
+        {"name": "Pumpkin", "amount": 1, "unit": "kg"},
+        {"name": "Onion", "amount": 1, "unit": "large"},
+        {"name": "Coconut Milk", "amount": 400, "unit": "ml"},
+        {"name": "Ginger", "amount": 1, "unit": "thumb"},
+        {"name": "Vegetable Stock", "amount": 1, "unit": "liter"},
+        {"name": "Pumpkin Seeds", "amount": 50, "unit": "g"}
+      ],
+      "sustainability_score": 8.8,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegan", "autumn", "soup"],
+      "image_url": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a",
+      "preparation_time": "45 minutes",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "text": "Green Smoothie Bowl: A nutrient-rich breakfast bowl with seasonal fruits and vegetables.",
+    "metadata": {
+      "title": "Green Smoothie Bowl",
+      "ingredients": [
+        {"name": "Spinach", "amount": 100, "unit": "g"},
+        {"name": "Banana", "amount": 1, "unit": "piece"},
+        {"name": "Apple", "amount": 1, "unit": "piece"},
+        {"name": "Plant Milk", "amount": 200, "unit": "ml"},
+        {"name": "Chia Seeds", "amount": 1, "unit": "tbsp"},
+        {"name": "Granola", "amount": 30, "unit": "g"}
+      ],
+      "sustainability_score": 8.3,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["breakfast", "vegan", "raw"],
+      "image_url": "https://images.unsplash.com/photo-1494597564530-871f2b93ac55",
+      "preparation_time": "10 minutes",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "text": "Stuffed Bell Peppers: Colorful peppers filled with quinoa, vegetables, and herbs. A complete meal in itself.",
+    "metadata": {
+      "title": "Stuffed Bell Peppers",
+      "ingredients": [
+        {"name": "Bell Peppers", "amount": 4, "unit": "pieces"},
+        {"name": "Quinoa", "amount": 200, "unit": "g"},
+        {"name": "Zucchini", "amount": 1, "unit": "piece"},
+        {"name": "Corn", "amount": 150, "unit": "g"},
+        {"name": "Tomato Sauce", "amount": 400, "unit": "ml"},
+        {"name": "Fresh Herbs", "amount": 1, "unit": "bunch"}
+      ],
+      "sustainability_score": 8.6,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegan", "meal-prep", "gluten-free"],
+      "image_url": "https://images.unsplash.com/photo-1608477638911-65a9ec9bc6ae",
+      "preparation_time": "55 minutes",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "text": "Carrot Cake Oatmeal: A healthy breakfast that tastes like dessert. Uses seasonal carrots and warming spices.",
+    "metadata": {
+      "title": "Carrot Cake Oatmeal",
+      "ingredients": [
+        {"name": "Oats", "amount": 80, "unit": "g"},
+        {"name": "Carrots", "amount": 2, "unit": "medium"},
+        {"name": "Plant Milk", "amount": 250, "unit": "ml"},
+        {"name": "Cinnamon", "amount": 1, "unit": "tsp"},
+        {"name": "Raisins", "amount": 30, "unit": "g"},
+        {"name": "Walnuts", "amount": 30, "unit": "g"}
+      ],
+      "sustainability_score": 9.0,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["breakfast", "vegan", "healthy-dessert"],
+      "image_url": "https://images.unsplash.com/photo-1569135579442-d37b7a0ea74e",
+      "preparation_time": "20 minutes",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "text": "Vegetable Lasagna: A hearty pasta dish loaded with seasonal vegetables and herbs. Perfect for family dinners.",
+    "metadata": {
+      "title": "Vegetable Lasagna",
+      "ingredients": [
+        {"name": "Lasagna Sheets", "amount": 250, "unit": "g"},
+        {"name": "Zucchini", "amount": 2, "unit": "pieces"},
+        {"name": "Spinach", "amount": 300, "unit": "g"},
+        {"name": "Tomato Sauce", "amount": 800, "unit": "ml"},
+        {"name": "Plant-based Cheese", "amount": 200, "unit": "g"},
+        {"name": "Nutritional Yeast", "amount": 4, "unit": "tbsp"}
+      ],
+      "sustainability_score": 8.4,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegan", "family", "comfort-food"],
+      "image_url": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3",
+      "preparation_time": "75 minutes",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "text": "Baked Apple Dessert: A simple, wholesome dessert using local apples. Perfect for cold evenings.",
+    "metadata": {
+      "title": "Baked Apple Dessert",
+      "ingredients": [
+        {"name": "Apples", "amount": 4, "unit": "large"},
+        {"name": "Oats", "amount": 100, "unit": "g"},
+        {"name": "Cinnamon", "amount": 2, "unit": "tsp"},
+        {"name": "Maple Syrup", "amount": 4, "unit": "tbsp"},
+        {"name": "Walnuts", "amount": 50, "unit": "g"},
+        {"name": "Plant Butter", "amount": 30, "unit": "g"}
+      ],
+      "sustainability_score": 9.5,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["dessert", "vegan", "winter"],
+      "image_url": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a7",
+      "preparation_time": "40 minutes",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "text": "Rainbow Grain Bowl: A colorful, nutritious bowl with a variety of vegetables and grains. Perfect for lunch.",
+    "metadata": {
+      "title": "Rainbow Grain Bowl",
+      "ingredients": [
+        {"name": "Mixed Grains", "amount": 200, "unit": "g"},
+        {"name": "Sweet Potato", "amount": 1, "unit": "large"},
+        {"name": "Beets", "amount": 2, "unit": "medium"},
+        {"name": "Avocado", "amount": 1, "unit": "piece"},
+        {"name": "Mixed Seeds", "amount": 50, "unit": "g"},
+        {"name": "Tahini", "amount": 2, "unit": "tbsp"}
+      ],
+      "sustainability_score": 8.7,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegan", "lunch", "meal-prep"],
+      "image_url": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2",
+      "preparation_time": "45 minutes",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "text": "Mushroom Risotto: A creamy, comforting rice dish with local mushrooms. Perfect for autumn evenings.",
+    "metadata": {
+      "title": "Mushroom Risotto",
+      "ingredients": [
+        {"name": "Arborio Rice", "amount": 300, "unit": "g"},
+        {"name": "Mixed Mushrooms", "amount": 400, "unit": "g"},
+        {"name": "Onion", "amount": 1, "unit": "large"},
+        {"name": "White Wine", "amount": 100, "unit": "ml"},
+        {"name": "Vegetable Stock", "amount": 1, "unit": "liter"},
+        {"name": "Nutritional Yeast", "amount": 3, "unit": "tbsp"}
+      ],
+      "sustainability_score": 7.8,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["vegan-option", "dinner", "comfort-food"],
+      "image_url": "https://images.unsplash.com/photo-1476124369491-e7addf5db371",
+      "preparation_time": "45 minutes",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "text": "Homemade Granola: A customizable breakfast staple made with oats and nuts. Perfect for reducing packaging waste.",
+    "metadata": {
+      "title": "Homemade Granola",
+      "ingredients": [
+        {"name": "Oats", "amount": 300, "unit": "g"},
+        {"name": "Mixed Nuts", "amount": 150, "unit": "g"},
+        {"name": "Seeds", "amount": 100, "unit": "g"},
+        {"name": "Maple Syrup", "amount": 120, "unit": "ml"},
+        {"name": "Coconut Oil", "amount": 60, "unit": "ml"},
+        {"name": "Cinnamon", "amount": 2, "unit": "tsp"}
+      ],
+      "sustainability_score": 9.0,
+      "seasonal": true,
+      "regional": true,
+      "tags": ["breakfast", "vegan", "zero-waste"],
+      "image_url": "https://images.unsplash.com/photo-1517093702248-583404643308",
+      "preparation_time": "35 minutes",
+      "difficulty": "easy"
+    }
+  }
+] 

@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  chatbot:
+    build:
+      context: ./chatbot
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./chatbot:/app
+    environment:
+      - PYTHONPATH=/app
+    restart: unless-stopped 

@@ -1,0 +1,149 @@
+/* Logo styling */
+img[alt="logo"],
+.cl-header .header-logo-container img,
+.cl-header .header-logo-container .header-logo {
+    max-height: none !important;
+    height: 100% !important;
+    min-height: 400px !important;
+    width: auto !important;
+    max-width: 100% !important;
+    padding-left: 30px !important;
+    margin-top: 20px !important;
+    object-fit: contain !important;
+    display: block;
+}
+
+/* Container for the logo */
+.cl-header .header-logo-container {
+    height: 450px !important; /* Ensure the image has enough room */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Dark theme logo */
+[data-theme='dark'] img[alt="logo"],
+[data-theme='dark'] .cl-header .header-logo-container img,
+[data-theme='dark'] .cl-header .header-logo-container .header-logo {
+    content: url('/logo_dark.png') !important;
+    filter: brightness(0.9);
+}
+
+/* Responsive adjustments */
+@media (max-width: 1057px) {
+    .cl-header .header-logo-container {
+        height: 250px !important;
+    }
+
+    img[alt="logo"],
+    .cl-header .header-logo-container img,
+    .cl-header .header-logo-container .header-logo {
+        min-height: 150px !important;
+        max-height: 200px !important;
+        padding-left: 15px !important;
+    }
+
+    body {
+        background-image: url('http://chatbot.skimu.de/logo?theme=light');
+        background-size: 330px;
+        background-position: top center;
+        background-repeat: no-repeat;
+    }
+}
+
+/* Message avatars */
+.message-avatar {
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 20px !important;
+}
+
+/* Avatar Styles */
+.cl-avatar-user img,
+.cl-avatar-assistant img {
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+}
+
+/* Hide Chainlit branding */
+.css-1705j0v {
+    display: none !important;
+}
+
+/* Hide upload UI */
+button#upload-button,
+div.file-drop-zone,
+.file-upload-zone,
+[data-testid="upload-button"],
+button[aria-label="Attach file"],
+.css-1g7yjtc,
+div[data-testid="file-upload"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important;
+    position: absolute !important;
+    pointer-events: none !important;
+}
+
+/* Hide sidebar toggle button (mobile + full) */
+button.css-1yxmbwk,
+div#open-sidebar-button {
+    display: none !important;
+}
+
+/* Hide certain Chainlit element */
+.css-u4p24i {
+    display: none !important;
+}
+
+/* Adjust header spacing */
+.css-1sf3xto {
+    padding-bottom: 56px !important;
+}
+
+/* Container for header image centered */
+div .css-bsxkxw {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Input area styling */
+.input-area {
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: #ffffff;
+}
+
+/* Style audio button */
+button[aria-label="Toggle audio recording"] {
+    margin-left: 8px !important;
+    background-color: #4CAF50;
+    color: white;
+}
+
+button[aria-label="Toggle audio recording"]:hover {
+    background-color: #45a049;
+}
+
+/* Chat bubble styling */
+div.css-1msem0r:not(div.css-1yvzil2 div.css-1msem0r) {
+    border-radius: 1.5rem;
+    background-color: rgb(255, 255, 255);
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+.custom-header-logo {
+    background-image: url('/avatars/ecocart_assistant.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 100px;
+    width: 100%;
+}

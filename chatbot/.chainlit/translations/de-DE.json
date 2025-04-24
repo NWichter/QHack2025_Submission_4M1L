@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "title": "Einstellungen",
+    "clearConversation": "Konversation löschen",
+    "darkMode": "Dunkelmodus",
+    "languages": "Sprache",
+    "uploadFile": "Datei hochladen"
+  },
+  "conversation": {
+    "stopGeneration": "Generation stoppen",
+    "uploadFile": "Datei hochladen",
+    "placeholderMessage": "Schreiben Sie Ihre Nachricht...",
+    "send": "Senden",
+    "clearConversation": "Konversation löschen",
+    "clearConversationConfirm": "Möchten Sie diese Konversation wirklich löschen?",
+    "clearConversationConfirmButton": "Ja, löschen",
+    "clearConversationCancel": "Abbrechen"
+  },
+  "errors": {
+    "default": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später erneut.",
+    "fileUpload": "Fehler beim Hochladen der Datei",
+    "messageSending": "Fehler beim Senden der Nachricht",
+    "messageTooLong": "Nachricht zu lang",
+    "invalidFileType": "Ungültiger Dateityp"
+  },
+  "actions": {
+    "copy": "Kopieren",
+    "copied": "Kopiert!",
+    "download": "Herunterladen",
+    "share": "Teilen",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen"
+  },
+  "elements": {
+    "loading": "Lädt...",
+    "noData": "Keine Daten verfügbar",
+    "showMore": "Mehr anzeigen",
+    "showLess": "Weniger anzeigen"
+  },
+  "welcome": {
+    "heading": "Willkommen bei EcoCart AI",
+    "description": "Ihr intelligenter Begleiter für nachhaltiges Einkaufen und Kochen"
+  }
+} 
